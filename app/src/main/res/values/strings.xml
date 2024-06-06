@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">SimpleAsyncask</string>
-    <string name="ready_to_start">Ready to start</string>
-    <string name="start_task">Start</string>
+    <string name="ready_to_start">Prêt à lancer</string>
+    <string name="start_task">Lancer</string>
 </resources>
